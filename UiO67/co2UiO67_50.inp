@@ -1,0 +1,106 @@
+! This is the input file for a short simulation of CO2 in MOF UiO-67 at 298.15 K.
+
+# Run_Name
+co2UiO67_50
+!--------------
+
+# Sim_Type
+gcmc
+!---------------
+
+# Nbr_Species
+2
+!----------------
+
+# VDW_Style
+LJ cut_tail 13.0
+!----------------
+
+# Charge_Style
+none
+!----------------
+
+# Mixing_Rule
+lb
+!---------------
+
+# Seed_Info
+3051258212   3304158211
+!-------------------
+
+# Rcutoff_Low
+0.5
+!----------------
+
+# Molecule_Files
+uio67_8uc.mcf 1
+CO2UA.mcf 5000
+
+!---------------
+
+# Box_Info
+1
+cubic
+54.188
+!-------------------------
+
+# Temperature_Info
+298.15
+!-----------------
+
+# Chemical_Potential_Info
+-50.0
+!------------------------------------------------------------------------kJ/mol
+
+# Move_Probability_Info
+
+# Prob_Translation
+0.3
+0.0 4.0
+
+# Prob_Insertion
+0.35
+none cbmc
+
+# Prob_Deletion
+0.35
+
+# Done_Probability_Info
+!----------------------
+
+# Start_Type
+read_config 1 0 uio678uc.xyz
+!------------------
+
+# Run_Type
+equilibration   100
+!-----------------------update every 100 cycles
+
+# Average_Info
+1
+!-------------
+
+# Simulation_Length_Info
+Units        Steps
+Prop_Freq    500
+Coord_Freq   2500000
+Run          5000000
+!-------------------- 101 moves / cycle, output every 100 cycles, run 10^5 cycles
+
+# Property_Info 1 
+energy_total
+nmols
+!----------------
+
+# Fragment_Files
+species2/frag1/frag1.dat  1
+!---------------------------------------------------------one line per fragment
+
+# CBMC_Info
+kappa_ins 12
+kappa_dih 12
+rcut_cbmc 6.5 
+!------------
+
+
+END
