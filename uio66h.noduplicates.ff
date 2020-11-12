@@ -1,0 +1,1888 @@
+atomtypes
+9
+
+begin atom-atomtype
+1 C1
+2 C1
+3 C1
+4 C1
+5 C1
+6 C1
+7 C1
+8 C1
+9 C1
+10 C1
+11 C1
+12 C1
+13 C1
+14 C1
+15 C1
+16 C1
+17 C1
+18 C1
+19 C1
+20 C1
+21 C1
+22 C1
+23 C1
+24 C1
+25 C1
+26 C1
+27 C1
+28 C1
+29 C1
+30 C1
+31 C1
+32 C1
+33 C1
+34 C1
+35 C1
+36 C1
+37 C1
+38 C1
+39 C1
+40 C1
+41 C1
+42 C1
+43 C1
+44 C1
+45 C1
+46 C1
+47 C1
+48 C1
+49 C13
+50 C13
+51 C13
+52 C13
+53 C13
+54 C13
+55 C13
+56 C13
+57 C13
+58 C13
+59 C13
+60 C13
+61 C13
+62 C13
+63 C13
+64 C13
+65 C13
+66 C13
+67 C13
+68 C13
+69 C13
+70 C13
+71 C13
+72 C13
+73 C13
+74 C13
+75 C13
+76 C13
+77 C13
+78 C13
+79 C13
+80 C13
+81 C13
+82 C13
+83 C13
+84 C13
+85 C13
+86 C13
+87 C13
+88 C13
+89 C13
+90 C13
+91 C13
+92 C13
+93 C13
+94 C13
+95 C13
+96 C13
+97 C25
+98 C25
+99 C25
+100 C25
+101 C25
+102 C25
+103 C25
+104 C25
+105 C25
+106 C25
+107 C25
+108 C25
+109 C25
+110 C25
+111 C25
+112 C25
+113 C25
+114 C25
+115 C25
+116 C25
+117 C25
+118 C25
+119 C25
+120 C25
+121 C25
+122 C25
+123 C25
+124 C25
+125 C25
+126 C25
+127 C25
+128 C25
+129 C25
+130 C25
+131 C25
+132 C25
+133 C25
+134 C25
+135 C25
+136 C25
+137 C25
+138 C25
+139 C25
+140 C25
+141 C25
+142 C25
+143 C25
+144 C25
+145 C25
+146 C25
+147 C25
+148 C25
+149 C25
+150 C25
+151 C25
+152 C25
+153 C25
+154 C25
+155 C25
+156 C25
+157 C25
+158 C25
+159 C25
+160 C25
+161 C25
+162 C25
+163 C25
+164 C25
+165 C25
+166 C25
+167 C25
+168 C25
+169 C25
+170 C25
+171 C25
+172 C25
+173 C25
+174 C25
+175 C25
+176 C25
+177 C25
+178 C25
+179 C25
+180 C25
+181 C25
+182 C25
+183 C25
+184 C25
+185 C25
+186 C25
+187 C25
+188 C25
+189 C25
+190 C25
+191 C25
+192 C25
+193 H1
+194 H1
+195 H1
+196 H1
+197 H1
+198 H1
+199 H1
+200 H1
+201 H1
+202 H1
+203 H1
+204 H1
+205 H1
+206 H1
+207 H1
+208 H1
+209 H1
+210 H1
+211 H1
+212 H1
+213 H1
+214 H1
+215 H1
+216 H1
+217 H1
+218 H1
+219 H1
+220 H1
+221 H1
+222 H1
+223 H1
+224 H1
+225 H1
+226 H1
+227 H1
+228 H1
+229 H1
+230 H1
+231 H1
+232 H1
+233 H1
+234 H1
+235 H1
+236 H1
+237 H1
+238 H1
+239 H1
+240 H1
+241 H1
+242 H1
+243 H1
+244 H1
+245 H1
+246 H1
+247 H1
+248 H1
+249 H1
+250 H1
+251 H1
+252 H1
+253 H1
+254 H1
+255 H1
+256 H1
+257 H1
+258 H1
+259 H1
+260 H1
+261 H1
+262 H1
+263 H1
+264 H1
+265 H1
+266 H1
+267 H1
+268 H1
+269 H1
+270 H1
+271 H1
+272 H1
+273 H1
+274 H1
+275 H1
+276 H1
+277 H1
+278 H1
+279 H1
+280 H1
+281 H1
+282 H1
+283 H1
+284 H1
+285 H1
+286 H1
+287 H1
+288 H1
+289 H25
+290 H25
+291 H25
+292 H25
+293 H25
+294 H25
+295 H25
+296 H25
+297 H25
+298 H25
+299 H25
+300 H25
+301 H25
+302 H25
+303 H25
+304 H25
+305 O1
+306 O1
+307 O1
+308 O1
+309 O1
+310 O1
+311 O1
+312 O1
+313 O1
+314 O1
+315 O1
+316 O1
+317 O1
+318 O1
+319 O1
+320 O1
+321 O1
+322 O1
+323 O1
+324 O1
+325 O1
+326 O1
+327 O1
+328 O1
+329 O1
+330 O1
+331 O1
+332 O1
+333 O1
+334 O1
+335 O1
+336 O1
+337 O1
+338 O1
+339 O1
+340 O1
+341 O1
+342 O1
+343 O1
+344 O1
+345 O1
+346 O1
+347 O1
+348 O1
+349 O1
+350 O1
+351 O1
+352 O1
+353 O1
+354 O1
+355 O1
+356 O1
+357 O1
+358 O1
+359 O1
+360 O1
+361 O1
+362 O1
+363 O1
+364 O1
+365 O1
+366 O1
+367 O1
+368 O1
+369 O1
+370 O1
+371 O1
+372 O1
+373 O1
+374 O1
+375 O1
+376 O1
+377 O1
+378 O1
+379 O1
+380 O1
+381 O1
+382 O1
+383 O1
+384 O1
+385 O1
+386 O1
+387 O1
+388 O1
+389 O1
+390 O1
+391 O1
+392 O1
+393 O1
+394 O1
+395 O1
+396 O1
+397 O1
+398 O1
+399 O1
+400 O1
+401 O25
+402 O25
+403 O25
+404 O25
+405 O25
+406 O25
+407 O25
+408 O25
+409 O25
+410 O25
+411 O25
+412 O25
+413 O25
+414 O25
+415 O25
+416 O25
+417 O29
+418 O29
+419 O29
+420 O29
+421 O29
+422 O29
+423 O29
+424 O29
+425 O29
+426 O29
+427 O29
+428 O29
+429 O29
+430 O29
+431 O29
+432 O29
+433 ZR
+434 ZR
+435 ZR
+436 ZR
+437 ZR
+438 ZR
+439 ZR
+440 ZR
+441 ZR
+442 ZR
+443 ZR
+444 ZR
+445 ZR
+446 ZR
+447 ZR
+448 ZR
+449 ZR
+450 ZR
+451 ZR
+452 ZR
+453 ZR
+454 ZR
+455 ZR
+456 ZR
+end atom-atomtype
+
+vdwtype LJ
+dihedraltype none
+
+nonbonded
+C1
+Sigma 3.207
+Epsilon 31.355
+atom_type_charge 0.593
+
+nonbonded
+C13
+Sigma 3.207
+Epsilon 31.355
+atom_type_charge -0.081 
+
+nonbonded
+C25
+Sigma 3.207
+Epsilon 31.355
+atom_type_charge -0.066
+
+nonbonded
+H1
+Sigma 2.958 
+Epsilon 7.881
+atom_type_charge 0.134 
+
+nonbonded
+H25
+Sigma 0.000
+Epsilon 0.000
+atom_type_charge 0.359 
+
+nonbonded
+O1
+Sigma 2.815 
+Epsilon 60.136
+atom_type_charge -0.580 
+
+nonbonded
+O25
+Sigma 2.815 
+Epsilon 60.136
+atom_type_charge -0.785
+
+nonbonded
+O29
+Sigma 2.815 
+Epsilon 60.136
+atom_type_charge -1.008
+
+nonbonded
+ZR
+Sigma 4.247 
+Epsilon 46.258
+atom_type_charge 1.980 
+
+charge
+1 
+
+charge
+2 
+
+charge
+3 
+
+charge
+4 
+
+charge
+5 
+
+charge
+6 
+
+charge
+7 
+
+charge
+8 
+
+charge
+9 
+
+charge
+10 
+
+charge
+11 
+
+charge
+12 
+
+charge
+13 
+
+charge
+14 
+
+charge
+15 
+
+charge
+16 
+
+charge
+17 
+
+charge
+18 
+
+charge
+19 
+
+charge
+20 
+
+charge
+21 
+
+charge
+22 
+
+charge
+23 
+
+charge
+24 
+
+charge
+25 
+
+charge
+26 
+
+charge
+27 
+
+charge
+28 
+
+charge
+29 
+
+charge
+30 
+
+charge
+31 
+
+charge
+32 
+
+charge
+33 
+
+charge
+34 
+
+charge
+35 
+
+charge
+36 
+
+charge
+37 
+
+charge
+38 
+
+charge
+39 
+
+charge
+40 
+
+charge
+41 
+
+charge
+42 
+
+charge
+43 
+
+charge
+44 
+
+charge
+45 
+
+charge
+46 
+
+charge
+47 
+
+charge
+48 
+
+charge
+49 
+
+charge
+50 
+
+charge
+51 
+
+charge
+52 
+
+charge
+53 
+
+charge
+54 
+
+charge
+55 
+
+charge
+56 
+
+charge
+57 
+
+charge
+58 
+
+charge
+59 
+
+charge
+60 
+
+charge
+61 
+
+charge
+62 
+
+charge
+63 
+
+charge
+64 
+
+charge
+65 
+
+charge
+66 
+
+charge
+67 
+
+charge
+68 
+
+charge
+69 
+
+charge
+70 
+
+charge
+71 
+
+charge
+72 
+
+charge
+73 
+
+charge
+74 
+
+charge
+75 
+
+charge
+76 
+
+charge
+77 
+
+charge
+78 
+
+charge
+79 
+
+charge
+80 
+
+charge
+81 
+
+charge
+82 
+
+charge
+83 
+
+charge
+84 
+
+charge
+85 
+
+charge
+86 
+
+charge
+87 
+
+charge
+88 
+
+charge
+89 
+
+charge
+90 
+
+charge
+91 
+
+charge
+92 
+
+charge
+93 
+
+charge
+94 
+
+charge
+95 
+
+charge
+96 
+
+charge
+97 
+
+charge
+98 
+
+charge
+99 
+
+charge
+100 
+
+charge
+101 
+
+charge
+102 
+
+charge
+103 
+
+charge
+104 
+
+charge
+105 
+
+charge
+106 
+
+charge
+107 
+
+charge
+108 
+
+charge
+109 
+
+charge
+110 
+
+charge
+111 
+
+charge
+112 
+
+charge
+113 
+
+charge
+114 
+
+charge
+115 
+
+charge
+116 
+
+charge
+117 
+
+charge
+118 
+
+charge
+119 
+
+charge
+120 
+
+charge
+121 
+
+charge
+122 
+
+charge
+123 
+
+charge
+124 
+
+charge
+125 
+
+charge
+126 
+
+charge
+127 
+
+charge
+128 
+
+charge
+129 
+
+charge
+130 
+
+charge
+131 
+
+charge
+132 
+
+charge
+133 
+
+charge
+134 
+
+charge
+135 
+
+charge
+136 
+
+charge
+137 
+
+charge
+138 
+
+charge
+139 
+
+charge
+140 
+
+charge
+141 
+
+charge
+142 
+
+charge
+143 
+
+charge
+144 
+
+charge
+145 
+
+charge
+146 
+
+charge
+147 
+
+charge
+148 
+
+charge
+149 
+
+charge
+150 
+
+charge
+151 
+
+charge
+152 
+
+charge
+153 
+
+charge
+154 
+
+charge
+155 
+
+charge
+156 
+
+charge
+157 
+
+charge
+158 
+
+charge
+159 
+
+charge
+160 
+
+charge
+161 
+
+charge
+162 
+
+charge
+163 
+
+charge
+164 
+
+charge
+165 
+
+charge
+166 
+
+charge
+167 
+
+charge
+168 
+
+charge
+169 
+
+charge
+170 
+
+charge
+171 
+
+charge
+172 
+
+charge
+173 
+
+charge
+174 
+
+charge
+175 
+
+charge
+176 
+
+charge
+177 
+
+charge
+178 
+
+charge
+179 
+
+charge
+180 
+
+charge
+181 
+
+charge
+182 
+
+charge
+183 
+
+charge
+184 
+
+charge
+185 
+
+charge
+186 
+
+charge
+187 
+
+charge
+188 
+
+charge
+189 
+
+charge
+190 
+
+charge
+191 
+
+charge
+192 
+
+charge
+193 
+
+charge
+194 
+
+charge
+195 
+
+charge
+196 
+
+charge
+197 
+
+charge
+198 
+
+charge
+199 
+
+charge
+200 
+
+charge
+201 
+
+charge
+202 
+
+charge
+203 
+
+charge
+204 
+
+charge
+205 
+
+charge
+206 
+
+charge
+207 
+
+charge
+208 
+
+charge
+209 
+
+charge
+210 
+
+charge
+211 
+
+charge
+212 
+
+charge
+213 
+
+charge
+214 
+
+charge
+215 
+
+charge
+216 
+
+charge
+217 
+
+charge
+218 
+
+charge
+219 
+
+charge
+220 
+
+charge
+221 
+
+charge
+222 
+
+charge
+223 
+
+charge
+224 
+
+charge
+225 
+
+charge
+226 
+
+charge
+227 
+
+charge
+228 
+
+charge
+229 
+
+charge
+230 
+
+charge
+231 
+
+charge
+232 
+
+charge
+233 
+
+charge
+234 
+
+charge
+235 
+
+charge
+236 
+
+charge
+237 
+
+charge
+238 
+
+charge
+239 
+
+charge
+240 
+
+charge
+241 
+
+charge
+242 
+
+charge
+243 
+
+charge
+244 
+
+charge
+245 
+
+charge
+246 
+
+charge
+247 
+
+charge
+248 
+
+charge
+249 
+
+charge
+250 
+
+charge
+251 
+
+charge
+252 
+
+charge
+253 
+
+charge
+254 
+
+charge
+255 
+
+charge
+256 
+
+charge
+257 
+
+charge
+258 
+
+charge
+259 
+
+charge
+260 
+
+charge
+261 
+
+charge
+262 
+
+charge
+263 
+
+charge
+264 
+
+charge
+265 
+
+charge
+266 
+
+charge
+267 
+
+charge
+268 
+
+charge
+269 
+
+charge
+270 
+
+charge
+271 
+
+charge
+272 
+
+charge
+273 
+
+charge
+274 
+
+charge
+275 
+
+charge
+276 
+
+charge
+277 
+
+charge
+278 
+
+charge
+279 
+
+charge
+280 
+
+charge
+281 
+
+charge
+282 
+
+charge
+283 
+
+charge
+284 
+
+charge
+285 
+
+charge
+286 
+
+charge
+287 
+
+charge
+288 
+
+charge
+289 
+
+charge
+290 
+
+charge
+291 
+
+charge
+292 
+
+charge
+293 
+
+charge
+294 
+
+charge
+295 
+
+charge
+296 
+
+charge
+297 
+
+charge
+298 
+
+charge
+299 
+
+charge
+300 
+
+charge
+301 
+
+charge
+302 
+
+charge
+303 
+
+charge
+304 
+
+charge
+305 
+
+charge
+306 
+
+charge
+307 
+
+charge
+308 
+
+charge
+309 
+
+charge
+310 
+
+charge
+311 
+
+charge
+312 
+
+charge
+313 
+
+charge
+314 
+
+charge
+315 
+
+charge
+316 
+
+charge
+317 
+
+charge
+318 
+
+charge
+319 
+
+charge
+320 
+
+charge
+321 
+
+charge
+322 
+
+charge
+323 
+
+charge
+324 
+
+charge
+325 
+
+charge
+326 
+
+charge
+327 
+
+charge
+328 
+
+charge
+329 
+
+charge
+330 
+
+charge
+331 
+
+charge
+332 
+
+charge
+333 
+
+charge
+334 
+
+charge
+335 
+
+charge
+336 
+
+charge
+337 
+
+charge
+338 
+
+charge
+339 
+
+charge
+340 
+
+charge
+341 
+
+charge
+342 
+
+charge
+343 
+
+charge
+344 
+
+charge
+345 
+
+charge
+346 
+
+charge
+347 
+
+charge
+348 
+
+charge
+349 
+
+charge
+350 
+
+charge
+351 
+
+charge
+352 
+
+charge
+353 
+
+charge
+354 
+
+charge
+355 
+
+charge
+356 
+
+charge
+357 
+
+charge
+358 
+
+charge
+359 
+
+charge
+360 
+
+charge
+361 
+
+charge
+362 
+
+charge
+363 
+
+charge
+364 
+
+charge
+365 
+
+charge
+366 
+
+charge
+367 
+
+charge
+368 
+
+charge
+369 
+
+charge
+370 
+
+charge
+371 
+
+charge
+372 
+
+charge
+373 
+
+charge
+374 
+
+charge
+375 
+
+charge
+376 
+
+charge
+377 
+
+charge
+378 
+
+charge
+379 
+
+charge
+380 
+
+charge
+381 
+
+charge
+382 
+
+charge
+383 
+
+charge
+384 
+
+charge
+385 
+
+charge
+386 
+
+charge
+387 
+
+charge
+388 
+
+charge
+389 
+
+charge
+390 
+
+charge
+391 
+
+charge
+392 
+
+charge
+393 
+
+charge
+394 
+
+charge
+395 
+
+charge
+396 
+
+charge
+397 
+
+charge
+398 
+
+charge
+399 
+
+charge
+400 
+
+charge
+401 
+
+charge
+402 
+
+charge
+403 
+
+charge
+404 
+
+charge
+405 
+
+charge
+406 
+
+charge
+407 
+
+charge
+408 
+
+charge
+409 
+
+charge
+410 
+
+charge
+411 
+
+charge
+412 
+
+charge
+413 
+
+charge
+414 
+
+charge
+415 
+
+charge
+416 
+
+charge
+417 
+
+charge
+418 
+
+charge
+419 
+
+charge
+420 
+
+charge
+421 
+
+charge
+422 
+
+charge
+423 
+
+charge
+424 
+
+charge
+425 
+
+charge
+426 
+
+charge
+427 
+
+charge
+428 
+
+charge
+429 
+
+charge
+430 
+
+charge
+431 
+
+charge
+432 
+
+charge
+433 
+
+charge
+434 
+
+charge
+435 
+
+charge
+436 
+
+charge
+437 
+
+charge
+438 
+
+charge
+439 
+
+charge
+440 
+
+charge
+441 
+
+charge
+442 
+
+charge
+443 
+
+charge
+444 
+
+charge
+445 
+
+charge
+446 
+
+charge
+447 
+
+charge
+448 
+
+charge
+449 
+
+charge
+450 
+
+charge
+451 
+
+charge
+452 
+
+charge
+453 
+
+charge
+454 
+
+charge
+455 
+
+charge
+456 
+
+end
