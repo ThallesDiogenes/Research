@@ -1,0 +1,20 @@
+atomtypes
+1
+
+begin atom-atomtype
+1 CO2
+end atom-atomtype
+
+vdwtype LJ
+dihedraltype none
+
+nonbonded
+CO2
+Sigma 3.72
+Epsilon 236.10
+atom_type_charge 0.0 
+
+charge
+1 
+
+end
